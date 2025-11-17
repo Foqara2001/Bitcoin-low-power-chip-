@@ -18,6 +18,8 @@ Advanced clock tree synthesis with H-tree distribution
 
 Stage 1: Synthesis & Constraints - Timing analysis, power optimization, false path identification
 
+Stage 2: STA
+
 Stage 3: Floorplanning - Multiple floorplan strategies with congestion analysis
 
 Stage 4: Placement - Timing-driven placement with setup/hold violation fixes
